@@ -1,4 +1,4 @@
-# Multiple Instance Learning with Auxiliary Task Weighting for Multiple Myeloma Classification
+# ATMIL: Multiple Instance Learning with Auxiliary Task Weighting
 
 Public repository for the code accompanying our paper accepted at MICCAI 2021. If you make use of the code, please cite the paper in any resulting publications:
 ```
@@ -9,3 +9,5 @@ Public repository for the code accompanying our paper accepted at MICCAI 2021. I
     booktitle = {International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)}
 }
 ```
+
+Code coming soon...
